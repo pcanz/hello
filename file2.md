@@ -1,5 +1,5 @@
 #   Hello Testing file2
 
-A *file* to try a [file1] lnk.
+A *file* to try a [file1] link.
 
-[file2]: https://github.com/pegp/hello/blob/main/file1.md
+[file1]: https://github.com/hello/blob/main/file1.md
